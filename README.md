@@ -3,9 +3,10 @@
 
 ## Project Initialization
 
-**StayEase** is a full-stack web application designed to mimic the core functionality of Airbnb. Users can browse property listings, view detailed information, and complete secure bookings. The application aims to deliver a seamless and responsive user experience across all devices.
+**StayEase** is a full-stack web application designed to mimic the core functionality of Airbnb. 
+Users can browse property listings, view detailed information, and complete secure bookings. The application aims to deliver a seamless and responsive user experience across all devices.
 
-This project is part of a comprehensive learning journey, spanning frontend and backend development, UI/UX design, team collaboration, and deployment.
+This project is part of a comprehensive learning journey, spanning frontend development, UI/UX design, team collaboration, and deployment.
 
 ###  Tech Stack
 
