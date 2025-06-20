@@ -1,4 +1,4 @@
-# airbnb-clone-project
+
 # StayEase: Airbnb Clone Project
 
 ## Project Initialization
