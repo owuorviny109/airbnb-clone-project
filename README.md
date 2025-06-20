@@ -1,23 +1,21 @@
 # airbnb-clone-project
 # StayEase: Airbnb Clone Project
 
-## 🔧 Project Initialization
+## Project Initialization
 
 **StayEase** is a full-stack web application designed to mimic the core functionality of Airbnb. Users can browse property listings, view detailed information, and complete secure bookings. The application aims to deliver a seamless and responsive user experience across all devices.
 
 This project is part of a comprehensive learning journey, spanning frontend and backend development, UI/UX design, team collaboration, and deployment.
 
-### 📌 Tech Stack
+###  Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React)
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL or MongoDB
 - **Version Control**: Git & GitHub
 - **Design Tools**: Figma
 
 ---
 
-## 🎨 UI/UX Design Planning
+##  UI/UX Design Planning
 
 ### 1. **Design Goals**
 
@@ -49,7 +47,7 @@ A user-friendly interface is essential in reducing drop-off rates and increasing
 
 ---
 
-## 🎨 More UI/UX Design Planning
+##  More UI/UX Design Planning
 
 ### 1. **Color Styles**
 
@@ -75,7 +73,7 @@ Extracting and implementing design tokens (e.g., color codes, font weights, size
 
 ---
 
-## 👥 Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
 | Role              | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
@@ -90,7 +88,7 @@ Extracting and implementing design tokens (e.g., color codes, font weights, size
 
 ---
 
-## 🧩 UI Component Patterns
+##  UI Component Patterns
 
 To ensure consistency and modularity, the following reusable UI components are planned:
 
@@ -112,14 +110,3 @@ To ensure consistency and modularity, the following reusable UI components are p
 - **Use**: Bottom of every page
 - **Responsiveness**: Stacks neatly on small screens
 
----
-
-## ✅ Completion Checklist
-
-- [x] GitHub repo initialized with `README.md`
-- [x] Project goals and tech stack clearly defined
-- [x] UI/UX planning documented with visual and functional goals
-- [x] Figma color styles and typography extracted
-- [x] Roles and responsibilities listed
-- [x] Reusable UI components described
-- [ ] Manual QA review requested (when development is done)
